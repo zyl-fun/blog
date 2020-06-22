@@ -106,3 +106,14 @@ https://www.runoob.com/linux/linux-comm-xargs.html
 alias tj='git add .;git commit -m "我又提交代码啦";git push -u origin master'
 ```
 
+**注意等号两边是不可以有空格的**
+
+### 每隔指定时间查看指定文件的大小
+
+```python
+watch -d- n 秒数 du -sh 文件夹
+```
+
+
+
+![](https://github.com/zyl-fun/pic/blob/master/%E6%88%91%E5%92%8C%E4%BD%A0%E5%A6%88%E5%A6%88%E4%BC%9A%E6%B0%B8%E8%BF%9C%E7%88%B1%E4%BD%A0.png?raw=true)
