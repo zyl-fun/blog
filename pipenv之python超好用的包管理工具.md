@@ -38,6 +38,6 @@ pipenv --venv  #查看虚拟环境目录
 pipenv --where #查看项目根目录
 pipenv check #检查包的完整性 我这有毛病，不知为何
 pipenv graph #查看依赖树
-#如果别人的项目中包含的时requirements.txt
+#如果别人的项目中包含的是requirements.txt
 pipenv install -r requirements.txt
 ```
