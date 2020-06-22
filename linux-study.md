@@ -103,7 +103,7 @@ https://www.runoob.com/linux/linux-comm-xargs.html
 省略代码提交的繁琐步骤，个人使用
 
 ```python
-alias tj='git add .;git commit -m "我又提交代码啦";git push -u origin master'
+alias tj='git add .;git commit -m "commit";git push -u origin master'
 ```
 
 **注意等号两边是不可以有空格的**
