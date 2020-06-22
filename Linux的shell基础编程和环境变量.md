@@ -1,6 +1,6 @@
-## Linux的shell基础编程和环境变量
+# Linux的shell基础编程和环境变量
 
-### shell
+## shell
 
 ```shell
 shell 的交互方式
@@ -56,6 +56,8 @@ do
 done
 echo '验证通过'
 ```
+
+## 环境变量
 
 
 
