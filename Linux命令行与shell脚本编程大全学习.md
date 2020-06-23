@@ -168,6 +168,12 @@ d开头说明是一个目录
 mkdir -p docker/mysql/{conf,data} #在最后建立两个子文件夹
 ```
 
+**查看文件内容**
+
+```shell
+file my_file 查看文件的类型
+```
+
 
 
 
