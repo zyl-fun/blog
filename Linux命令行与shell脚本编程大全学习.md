@@ -97,7 +97,7 @@ man -k net
 
 常见的目录名遵循 FHS http://www.pathname.com/fhs
 
-## shell命令
+## shell命令(文件操作指令)
 
 **ls**
 
@@ -172,7 +172,31 @@ mkdir -p docker/mysql/{conf,data} #在最后建立两个子文件夹
 
 ```shell
 file my_file 查看文件的类型
+cat -n 显示行号 -b 只对有文本的行加上行号 -T 忽略制表符
+more 空格翻页 回车换行 q退出
+less more升级版，识别上下键，还有翻页键
+tail -n 指定显示的行数 -f 实时查看
+head 从头部查看
 ```
+
+**监测程序**
+
+```shell
+ps -ef 
+ps -aux
+有三种风格
+Unix / BSD / GNU
+```
+
+
+
+![](https://github.com/zyl-fun/pic/blob/master/%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20200623142513.png?raw=true)
+
+top
+
+
+
+
 
 
 
