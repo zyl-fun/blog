@@ -1,7 +1,3 @@
-[TOC]
-
-
-
 ### 参考网站
 
 [https://github.com/jackfrued/Python-100-Days/blob/master/Day31-35/31-35.%E7%8E%A9%E8%BD%ACLinux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F.md](https://github.com/jackfrued/Python-100-Days/blob/master/Day31-35/31-35.玩转Linux操作系统.md)
