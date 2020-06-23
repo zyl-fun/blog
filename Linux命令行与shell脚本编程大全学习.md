@@ -194,7 +194,7 @@ Unix / BSD / GNU
 
 [top指令](https://github.com/zyl-fun/blog/blob/master/Linux-top%E6%8C%87%E4%BB%A4.md)
 
-
+[kill指令](https://github.com/zyl-fun/blog/blob/master/Linux-%E7%BB%93%E6%9D%9F%E8%BF%9B%E7%A8%8B%EF%BC%88kill%EF%BC%89.md)
 
 
 

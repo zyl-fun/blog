@@ -18,6 +18,19 @@ C:\Windows\System32\drivers\etc
 
 解决这个问题参考了两篇博客
 
+------
+
+https://github.com.ipaddress.com/  找到对应的IP地址
+
+```shell
+140.82.114.4 github.com
+140.82.114.4 github.global.ssl.fastly.net
+```
+
+添加到hosts文件中
+
+------
+
 http://tool.chinaz.com/dns/ 打开网址，输入 github.com
 
 在查询列表中选择 TTL 值最小的 IP
@@ -25,9 +38,7 @@ http://tool.chinaz.com/dns/ 打开网址，输入 github.com
 之后在 hosts文件中添加就OK了
 
 ```shell
-13.229.188.59 github.com
 13.229.188.59 gist.github.com
-13.229.188.59 github.global.ssl.fastly.net
 13.229.188.59 nodeload.github.com
 ```
 

@@ -9,5 +9,5 @@ pkill redis
 killall http*
 ```
 
-
+![](https://github.com/zyl-fun/pic/blob/master/%E5%BC%80%E4%BC%9A.png?raw=true)
 
