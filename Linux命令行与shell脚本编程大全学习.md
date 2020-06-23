@@ -192,7 +192,9 @@ Unix / BSD / GNU
 
 ![](https://github.com/zyl-fun/pic/blob/master/%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20200623142513.png?raw=true)
 
-top
+[top指令](https://github.com/zyl-fun/blog/blob/master/Linux-top%E6%8C%87%E4%BB%A4.md)
+
+
 
 
 
