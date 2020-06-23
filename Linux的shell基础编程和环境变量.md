@@ -57,7 +57,7 @@ done
 echo '验证通过'
 ```
 
-## 环境变量
+![](https://github.com/zyl-fun/pic/blob/master/%E6%88%91%E5%92%8C%E4%BD%A0%E5%A6%88%E5%A6%88%E4%BC%9A%E6%B0%B8%E8%BF%9C%E7%88%B1%E4%BD%A0.png?raw=true)
 
 
 
