@@ -196,6 +196,8 @@ Unix / BSD / GNU
 
 [kill指令](https://github.com/zyl-fun/blog/blob/master/Linux-%E7%BB%93%E6%9D%9F%E8%BF%9B%E7%A8%8B%EF%BC%88kill%EF%BC%89.md)
 
+[查看存储](https://github.com/zyl-fun/blog/blob/master/Linux%E6%9F%A5%E7%9C%8B%E5%AD%98%E5%82%A8%E7%9A%84%E5%87%A0%E7%A7%8D%E6%96%B9%E5%BC%8F.md)
+
 
 
 
