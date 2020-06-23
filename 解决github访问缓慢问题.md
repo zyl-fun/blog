@@ -31,3 +31,9 @@ http://tool.chinaz.com/dns/ 打开网址，输入 github.com
 13.229.188.59 nodeload.github.com
 ```
 
+最后 命令行
+
+```shell
+ipconfig /flushdns
+```
+
