@@ -91,7 +91,7 @@ man -k net
 
 **文件系统**
 
-
+[参考](https://github.com/zyl-fun/blog/blob/master/Linux%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F.md)
 
 ## shell命令(文件操作指令)
 
@@ -201,6 +201,27 @@ Unix / BSD / GNU
 根据 /etc/passwd 文件中用户对应的默认shell
 
 当对应用户登录虚拟控制台或者终端仿真器，默认的shell就会运行
+
+每次在终端bash都会生成子shell,并且自动进入
+
+ps -f 可以查看
+
+子进程 child shell subshell
+
+```shell
+ps --forest #显示shell之间的嵌套结构
+exit #退出shell
+```
+
+使用命令行参数修改shell的启动方式
+
+![](https://github.com/zyl-fun/pic/blob/master/%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20200624111941.png?raw=true)
+
+**进程列表**
+
+
+
+
 
 
 
