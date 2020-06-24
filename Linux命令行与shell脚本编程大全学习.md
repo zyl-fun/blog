@@ -91,11 +91,7 @@ man -k net
 
 **文件系统**
 
-系统文件在根驱动器，用户文件在另一驱动器中
 
-![](https://github.com/zyl-fun/pic/blob/master/%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20200623113121.png?raw=true)
-
-常见的目录名遵循 FHS http://www.pathname.com/fhs
 
 ## shell命令(文件操作指令)
 
@@ -198,9 +194,13 @@ Unix / BSD / GNU
 
 [查看存储](https://github.com/zyl-fun/blog/blob/master/Linux%E6%9F%A5%E7%9C%8B%E5%AD%98%E5%82%A8%E7%9A%84%E5%87%A0%E7%A7%8D%E6%96%B9%E5%BC%8F.md)
 
+## 理解shell
 
+**shell类型**
 
+根据 /etc/passwd 文件中用户对应的默认shell
 
+当对应用户登录虚拟控制台或者终端仿真器，默认的shell就会运行
 
 
 
