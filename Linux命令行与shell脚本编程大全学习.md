@@ -219,7 +219,9 @@ exit #退出shell
 
 **进程列表**
 
+https://github.com/zyl-fun/blog/blob/master/Linux-%E8%BF%9B%E7%A8%8B%E5%88%97%E8%A1%A8.md
 
+**别出心裁的shell用法**
 
 
 
