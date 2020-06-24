@@ -223,6 +223,10 @@ https://github.com/zyl-fun/blog/blob/master/Linux-%E8%BF%9B%E7%A8%8B%E5%88%97%E8
 
 **别出心裁的shell用法**
 
+https://github.com/zyl-fun/blog/blob/master/Linux-%E5%A5%87%E8%91%A9shell%E7%94%A8%E6%B3%95.md
+
+
+
 
 
 
