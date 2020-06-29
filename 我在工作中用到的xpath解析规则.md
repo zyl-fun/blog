@@ -18,5 +18,9 @@ substring-after(//a[contains(text(),'尾页')]/@href,'page=')
 //div[contains(@class,'posJobSort')]//a/@href
 
 //h3[contains(text(),'职位详情')]/parent::div[1]/following-sibling::div[1]//text()
+
+#在使用模板的时候，如果是异步请求，需要加上请求头，用户身份和token,在获取详情页入口的时候，如果拿取不到数据，select:xpath regex: //*  查看获取到数据的格式，再进行改正
+
+//span[contains(text(),'开发商')]/parent::div/following-sibling::div/a/text()
 ```
 
