@@ -48,3 +48,10 @@ http://tool.chinaz.com/dns/ 打开网址，输入 github.com
 ipconfig /flushdns
 ```
 
+#### 补充-图片不能正常显示问题
+
+https://www.ipaddress.com/
+
+浏览器控制台检查是哪个网址链接坏掉
+
+访问上面这个网站，并且输入，之后把IP添加到hosts文件中即可
