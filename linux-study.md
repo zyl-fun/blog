@@ -4,6 +4,8 @@
 
 https://man.linuxde.net/
 
+[基础常用指令大全，下载查阅](https://github.com/zyl-fun/pic/blob/master/mybook/2.linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4.pdf)
+
 ### 端口占用情况
 
 ```
