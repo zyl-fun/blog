@@ -18,14 +18,17 @@ ah.proxy({
     },
     //请求成功后进入
     onResponse: (response, handler) => {
-    	console.log('**************************************************')
-    	axios.post('http://39.107.36.92/receiver/movie',{
+    	if (response.config.url.startsWith('/rank/index')) {
+    		console.log('**************************************************')
+    	axios.post('https://39.107.46.92:8000/receiver/movie',{
     		url:window.location.href,
     		data:response.response
     	})
         console.log(response.response)
         handler.next(response)
     }
+    	}
+    	
 })
 ```
 
