@@ -1,5 +1,7 @@
 ## Ajax-Hook爬取七麦数据
 
+[参考](https://mp.weixin.qq.com/s?__biz=MzAwNDc0MTUxMw==&mid=2649644252&idx=1&sn=a698dfa8f024d24acba02be1253a5728&chksm=833dbc3ab44a352c8c4f39a6a184662115d565d9a9488f062ddecbb8103d0f361d5dc6a76b41&xtrack=1&scene=90&subscene=93&sessionid=1592883891&clicktime=1592883893&enterid=1592883893&ascene=56&devicetype=android-29&version=27000f3f&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&exportkey=AzbNcsTaAdhETJXvPdbdUPA%3D&pass_ticket=tdpzoo65km8yEXy38BvyUemjGvVsDUG8VTSFP5AR%2BgQ%3D&wx_header=1)
+
 *爬取https://www.qimai.cn/rank/marketRank各app对应详情页链接*
 
 本人尝试使用 selenium 及 参考大神们的 js逆向解密，但失败了，于是配合 ajax-hook在浏览器控制台直接进行接口数据抓取，再利用 axios 发送到到后端 flask 服务器 
@@ -125,6 +127,10 @@ def receive():
 if __name__ == '__main__':
     app.run(host='0.0.0.0',port=8000,debug=True, ssl_context=('secret.pem','secret.key'))
 ```
+
+------
+
+
 
 ![](https://github.com/zyl-fun/pic/blob/master/%E6%88%91%E5%92%8C%E4%BD%A0%E5%A6%88%E5%A6%88%E4%BC%9A%E6%B0%B8%E8%BF%9C%E7%88%B1%E4%BD%A0.png?raw=true)
 
