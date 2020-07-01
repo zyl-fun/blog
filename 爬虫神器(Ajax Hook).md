@@ -4,7 +4,7 @@
 
 *爬取https://www.qimai.cn/rank/marketRank各app对应详情页链接*
 
-本人尝试使用 selenium 及 参考大神们的 js逆向解密，但失败了，于是配合 ajax-hook在浏览器控制台直接进行接口数据抓取，再利用 axios 发送到到后端 flask 服务器 
+本人尝试使用 selenium 及 参考大神们的 js逆向解密，但失败了，于是配合 ajax-hook在浏览器控制台直接进行接口数据抓取，再利用 axios 发送到后端 flask 服务器 
 
 - [ ] 利用 ajax-hook，[ajax-hook 源码地址](https://raw.githubusercontent.com/wendux/Ajax-hook/master/dist/ajaxhook.min.js)
 - [ ] axios发送数据 [axios源码地址](https://unpkg.com/axios@0.19.2/dist/axios.min.js)
