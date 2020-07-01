@@ -1,4 +1,4 @@
-## 爬虫神器(Ajax-Hook)
+## 爬虫神器(Ajax-Hook)爬取七麦数据
 
 *爬取https://www.qimai.cn/rank/marketRank各app对应详情页链接*
 
@@ -32,6 +32,8 @@ ah.proxy({
 ```
 
 此时可以得到响应数据
+
+
 
 
 

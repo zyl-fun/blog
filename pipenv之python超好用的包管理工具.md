@@ -41,3 +41,16 @@ pipenv graph #查看依赖树
 #如果别人的项目中包含的是requirements.txt
 pipenv install -r requirements.txt
 ```
+
+**pipenv --venv**
+
+在使用pycharm用服务器的python环境
+
+![](https://github.com/zyl-fun/pic/blob/master/%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20200701103921.png?raw=true)
+
+需要在路径的末尾加上
+
+```shell
+/bin/python
+```
+
