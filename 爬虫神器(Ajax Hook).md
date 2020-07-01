@@ -1,4 +1,4 @@
-## 爬虫神器(Ajax-Hook)和爬取七麦数据
+## Ajax-Hook爬取七麦数据
 
 *爬取https://www.qimai.cn/rank/marketRank各app对应详情页链接*
 
