@@ -56,6 +56,14 @@ script.src = "https://cdn.jsdelivr.net/gh/zyl-fun/pic@v1.0.1/mybook/hook.js";
 document.getElementsByTagName('head')[0].appendChild(script);
 ```
 
+```shell
+hook.js 爬取苹果
+hooka.js 不访问服务器
+hook-zh.js 中国应用商店app
+```
+
+
+
 **后端服务器代码**
 
 ```shell

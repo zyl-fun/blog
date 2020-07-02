@@ -37,4 +37,8 @@ document.getElementsByTagName('head')[0].appendChild(script);
 
 [jsdelivr官网](https://www.jsdelivr.com/?docs=gh)
 
+**重要提示**
+
+每次仓库内文件新增或者修改，都需要重新进行 release
+
 ![](https://github.com/zyl-fun/pic/blob/master/%E6%88%91%E5%92%8C%E4%BD%A0%E5%A6%88%E5%A6%88%E4%BC%9A%E6%B0%B8%E8%BF%9C%E7%88%B1%E4%BD%A0.png?raw=true)
