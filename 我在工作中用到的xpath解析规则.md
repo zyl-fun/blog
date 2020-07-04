@@ -22,5 +22,8 @@ substring-after(//a[contains(text(),'尾页')]/@href,'page=')
 #在使用模板的时候，如果是异步请求，需要加上请求头，用户身份和token,在获取详情页入口的时候，如果拿取不到数据，select:xpath regex: //*  查看获取到数据的格式，再进行改正
 
 //span[contains(text(),'开发商')]/parent::div/following-sibling::div/a/text()
+
+(//img[starts-with(@src,'https://static.damengxiang.me/files/qrcode/')]/@src)[1]
+//上面是以标签的模糊属性进行定位，并且只取第一个元素，用括号括起来
 ```
 
