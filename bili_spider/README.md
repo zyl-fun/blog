@@ -92,5 +92,33 @@ https://api.bilibili.com/x/player/playurl?cid={}&avid={}&qn=80&otype=json&reques
 
 ![](https://github.com/zyl-fun/pic/blob/master/bilibili_pic/%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20200706165120.png?raw=true)
 
+具体参照代码
+
+### 对比
+
+使用第一种方法
+
+![](https://github.com/zyl-fun/pic/blob/master/bilibili_pic/%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20200706175658.png?raw=true)
+
+![](https://github.com/zyl-fun/pic/blob/master/bilibili_pic/%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20200706175750.png?raw=true)
+
+第二种办法
+
+![](https://github.com/zyl-fun/pic/blob/master/bilibili_pic/%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20200706175804.png?raw=true)
+
+![](https://github.com/zyl-fun/pic/blob/master/bilibili_pic/%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20200706175817.png?raw=true)
+
+哪个速度快，一眼便知
+
+### 建议
+
+建议使用 完美解码 打开视频，很强大的视频播放器
+
+若此篇博客图片无法正常打开，请参照：[https://github.com/zyl-fun/blog/blob/master/%E8%A7%A3%E5%86%B3github%E8%AE%BF%E9%97%AE%E7%BC%93%E6%85%A2%E9%97%AE%E9%A2%98.md](https://github.com/zyl-fun/blog/blob/master/解决github访问缓慢问题.md)
+
+
+
+![](https://github.com/zyl-fun/pic/blob/master/%E6%88%91%E5%92%8C%E4%BD%A0%E5%A6%88%E5%A6%88%E4%BC%9A%E6%B0%B8%E8%BF%9C%E7%88%B1%E4%BD%A0.png?raw=true)
+
 
 
