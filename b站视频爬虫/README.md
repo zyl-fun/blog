@@ -1,6 +1,6 @@
 ## B站视频爬虫-最新版（附代码）
 
-### fiddler + requests + ffmpeg
+### 第一种方法：fiddler + requests + ffmpeg
 
 **（一）打开fiddler抓包工具，打开视频主页，点击播放，等待几秒，调整主体和内容类型（视频流一般比较大，而且为MP4格式），还需要把自己的cookies 记录下来**
 
@@ -77,6 +77,20 @@ https://api.bilibili.com/x/player/playurl?cid=189517917&fnver=0&fnval=16&type=&o
 利用 ffmpeg 进行音频和视频文件的合并
 
 这里代码中有体现
+
+*下载完成*
+
+![](https://github.com/zyl-fun/pic/blob/master/bilibili_pic/%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20200706165355.png?raw=true)
+
+### 第二种方法：查阅资料，得知有个接口可以直接得到获取完整视频，有声音，格式为 .flv
+
+```shell
+https://api.bilibili.com/x/player/playurl?cid={}&avid={}&qn=80&otype=json&requestFrom=bilibili-helper
+```
+
+只要有 cid avid ，就可以拿到 URL
+
+![](https://github.com/zyl-fun/pic/blob/master/bilibili_pic/%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20200706165120.png?raw=true)
 
 
 
