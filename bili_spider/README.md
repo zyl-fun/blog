@@ -118,6 +118,18 @@ https://api.bilibili.com/x/player/playurl?cid={}&avid={}&qn=80&otype=json&reques
 
 
 
+### 参考
+
+https://blog.csdn.net/ETalien_/article/details/102920579
+
+https://www.52pojie.cn/thread-1209458-1-1.html
+
+https://blog.csdn.net/Enderman_xiaohei/article/details/94718494
+
+https://blog.csdn.net/Mike_Shine/article/details/81004136
+
+------
+
 ![](https://github.com/zyl-fun/pic/blob/master/%E6%88%91%E5%92%8C%E4%BD%A0%E5%A6%88%E5%A6%88%E4%BC%9A%E6%B0%B8%E8%BF%9C%E7%88%B1%E4%BD%A0.png?raw=true)
 
 
