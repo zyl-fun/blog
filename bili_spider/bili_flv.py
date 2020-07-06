@@ -75,6 +75,7 @@ def download(starturl):
 
 
 if __name__ == '__main__':
+    #注意，输入网址后空格一下再回车
     start_time = time.time()
     start_url = input('请输入URL：')
     start_url = start_url.replace(" ",'')
