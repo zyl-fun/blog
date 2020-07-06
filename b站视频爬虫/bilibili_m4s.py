@@ -53,9 +53,11 @@ cookies = {
     "sid" : ""
 }
 
+
+#代理，没有可以忽略
 http_config = {
-    "user": "ZGZFHTT1",
-    "pass": "gL0I092UHjf",
+    "user": "",
+    "pass": "",
     "concurrent": 100,
     "proxyServer": "http://http-proxy-t3.dobel.cn:9180",
     "type": "duobeiyun"
