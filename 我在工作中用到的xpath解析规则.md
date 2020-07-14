@@ -25,5 +25,8 @@ substring-after(//a[contains(text(),'尾页')]/@href,'page=')
 
 (//img[starts-with(@src,'https://static.damengxiang.me/files/qrcode/')]/@src)[1]
 //上面是以标签的模糊属性进行定位，并且只取第一个元素，用括号括起来
+
+//元素匹配
+page_num = html.xpath("//ul[contains(@class,'pagination')]/li[last()-1]/a/text()")
 ```
 
