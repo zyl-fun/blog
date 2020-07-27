@@ -15,4 +15,4 @@ def shibie(driver,code_img_xpath):
 
 
 
-![image-20200727155307909](../pic/image-20200727155307909.png)
+![image-20200727160629305](%E5%9B%BE%E7%89%87/image-20200727160629305.png)
