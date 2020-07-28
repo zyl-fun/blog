@@ -100,10 +100,11 @@ def cookie_run(domain):
     return cookies
 if __name__ == '__main__':
     print(cookie_run("https://www.csdn.net/"))
-
 ```
 
-![image-20200728142343921](C:%5CUsers%5Cxingdao_1%5CDesktop%5Cblog%5C%E5%9B%BE%E7%89%87%5Cimage-20200728142343921.png)
+
+
+![image-20200728143155653](%E5%9B%BE%E7%89%87/image-20200728143155653.png)
 
 注意截图函数内的标注部分，python2不需要 encoding, python3使用的时候则需要 加上 encoding部分
 
