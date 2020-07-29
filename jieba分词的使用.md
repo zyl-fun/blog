@@ -6,5 +6,15 @@
 
 [清华大学开放中文词库](http://thuocl.thunlp.org/)
 
-特征提取
+------
+
+学习使用jieba分词主要是想了解 IT橘子公司的运作模式
+
+因为 IT橘子就是从新闻中提取商业融资等信息，于是想用 jieba 分词 ，机器学习这方面模仿 IT 橘子
+
+结果我找到了以下文章
+
+https://www.jianshu.com/p/3acc0a5169f8
+
+铅笔道>>>>>>>>>>>>>>>>https://www.pencilnews.cn/projectlist
 
