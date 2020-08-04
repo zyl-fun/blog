@@ -82,6 +82,8 @@ hostnamect set-hostname <your-name> 修改主机名
 
 history -c
 
+!+历史命令行号           使用行号对应的历史命令
+
 ### ssh
 
 ```shell
