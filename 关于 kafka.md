@@ -100,3 +100,5 @@ for msg in consumer:
     print(msg.value)
 ```
 
+![img](%E5%9B%BE%E7%89%87/04d5a3ecd021e9a6ee0037cf23cf70fa1a004b2f.png)
+
