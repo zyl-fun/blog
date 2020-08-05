@@ -55,3 +55,22 @@ https://www.ipaddress.com/
 浏览器控制台检查是哪个网址链接坏掉
 
 访问上面这个网站，并且输入，之后把IP添加到hosts文件中即可
+
+#### 2020年8月5日更新
+
+最近解决方式，浏览器控制台复制失败的域名，
+
+```shell
+raw.githubusercontent.com
+```
+
+访问 http://tool.chinaz.com/dns/
+
+选择 TTL 最小的 IP,更新到 hosts 文件
+
+```shell
+ipconfig /flushdns
+```
+
+亲测有效
+
