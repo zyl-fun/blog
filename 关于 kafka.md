@@ -1,8 +1,16 @@
 ### 关于 kafka
 
-案例 https://github.com/muscledreamer/Kafka_Demo/tree/master/KfkClient_pykafka
-
 ------
+
+#### 下载
+
+链接：https://pan.baidu.com/s/1RKTD807egx4oPwocMX0mig 
+提取码：w5s9 
+复制这段内容后打开百度网盘手机App，操作更方便哦
+
+
+
+案例 https://github.com/muscledreamer/Kafka_Demo/tree/master/KfkClient_pykafka
 
 信息消费 https://www.kingname.info/2020/03/23/how-kafka-consume/
 
