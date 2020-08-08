@@ -12,21 +12,21 @@ xy = poco.get_screen_size()
 x = xy[0]
 y = xy[1]
 # swipe((x*0.9,y*0.5),(x*0.1,y*0.5),duration=1)
-poco(desc="IT桔子").click()
+poco(desc="小蓝本企业查询").click()
 
 print("*************************************")
-sleep(4)
-poco(name="com.itjuzi.app:id/iv_logo").click()
-poco(text="默认排序").click()
-poco(text="更新时间").click()
+# sleep(4)
+# poco(name="com.itjuzi.app:id/iv_logo").click()
+# poco(text="默认排序").click()
+# poco(text="更新时间").click()
 # poco("android.widget.LinearLayout").click()
-num = 0
-while 1:
-    num += 1
-    info_list = poco(name = "com.itjuzi.app:id/company_new_name_txt")
-    title_list = [title.get_text() for title in info_list]
-    for title in title_list:
-        print(title)
+# num = 0
+# while 1:
+#     num += 1
+#     info_list = poco(name = "com.itjuzi.app:id/company_new_name_txt")
+#     title_list = [title.get_text() for title in info_list]
+#     for title in title_list:
+#         print(title)
 #         poco(text=title).click()
 #         sleep(1)
 #         desc = ""

@@ -14,7 +14,7 @@
 
 ----
 
-信息消费 https://www.kingname.info/2020/03/23/how-kafka-consume/
+kafka信息消费 https://www.kingname.info/2020/03/23/how-kafka-consume/
 
 ----
 
@@ -34,6 +34,12 @@
 
 ---
 
+python查看kafka所有的topic
+
+
+
+---
+
 win10安装kafkahttps://blog.csdn.net/github_38482082/article/details/82112641
 
 需要注意，路径一定不要太长，我直接放在 c盘下 C:\kafka_2.12-2.5.0
@@ -45,6 +51,8 @@ win10安装kafkahttps://blog.csdn.net/github_38482082/article/details/82112641
 出现 binding to port 则表示 zookeeper启动成功
 
 ---
+
+实际测试操作
 
 ![image-20200804154959795](%E5%9B%BE%E7%89%87/image-20200804154959795.png)
 
@@ -74,7 +82,7 @@ OSError: [Errno 0] Error
 
 ------
 
-**使用的基本流程**
+#### 使用基本流程
 
 ```shell
 .\bin\windows\zookeeper-server-start.bat  .\config\zookeeper.properties
@@ -125,6 +133,14 @@ for msg in consumer:
 爬取数据的时候可以多线程（生产者）
 
 接收数据的时候也可以多线程（消费者）
+
+---
+
+如何过滤数据，以微博文章的id为标识，如果已经存在，则不再进行生产此条数据
+
+使用去重表
+
+id进行标识
 
 ---
 
