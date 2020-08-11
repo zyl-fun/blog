@@ -1,5 +1,9 @@
 # 我在工作中用到的xpath解析规则
 
+![img](%E5%9B%BE%E7%89%87/20181026150157860.jpg)
+
+---
+
 ```shell
 a[not(contains(text(),'不限'))]
 
