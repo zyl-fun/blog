@@ -2,7 +2,7 @@
 
 ------
 
-#### 下载
+#### 下载-安装-问题
 
 链接：https://pan.baidu.com/s/1RKTD807egx4oPwocMX0mig 
 提取码：w5s9 
@@ -35,8 +35,6 @@ kafka信息消费 https://www.kingname.info/2020/03/23/how-kafka-consume/
 ---
 
 python查看kafka所有的topic
-
-
 
 ---
 
@@ -79,6 +77,14 @@ kafka  kafka-python的安装切换
 
  self._sslobj.do_handshake()
 OSError: [Errno 0] Error
+
+------
+
+更新2020年8月17日
+
+>  INFO shutting down (kafka.server.KafkaServer)
+
+重新启动报错需要删除 kafka-logs文件夹
 
 ------
 
