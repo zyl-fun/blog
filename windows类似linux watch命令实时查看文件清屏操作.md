@@ -16,7 +16,5 @@ while 1:
     time.sleep(5)
     #下面这个是清屏操作
     # os.system('cls')
-
-
 ```
 
